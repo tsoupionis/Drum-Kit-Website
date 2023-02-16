@@ -6,3 +6,5 @@ for (var i = 0; i < document.querySelectorAll(".drum").length; i++) {
         // What to do when click is detected
     });
 }
+
+// 
